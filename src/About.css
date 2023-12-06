@@ -1,0 +1,93 @@
+.about-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .about-header {
+    font-size: 2em;
+  }
+  
+  .about-content {
+    margin-bottom: 30px;
+  }
+  
+  .about-intro {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .about-highlights {
+    margin-bottom: 30px;
+  }
+  
+  .about-highlights h2 {
+    font-size: 1.5em;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  .about-highlights ul,
+.about-how-it-works ol {
+  list-style: none;
+  padding: 0;
+}
+
+.about-highlights li,
+.about-how-it-works li {
+  font-size: 1.1em;
+  color: #ccc;
+  margin-bottom: 10px;
+}
+
+  
+  .about-how-it-works {
+    margin-bottom: 30px;
+  }
+  
+  .about-how-it-works h2 {
+    font-size: 1.5em;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  .about-how-it-works ol {
+    list-style-position: inside;
+    padding: 0;
+  }
+  
+ 
+  .about-cta {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .about-buttons {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .btn-primary,
+  .btn-secondary {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-primary {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .btn-secondary {
+    background-color: #333;
+    color: white;
+  }
+  
+  
